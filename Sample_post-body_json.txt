@@ -1,0 +1,38 @@
+Sample Post-body for reference
+adding a theatre:
+{
+  "address": "The Forum Mall, 21-22, Adugodi Main Road Koramangala, Chikku Lakshmaiah Layout, Adugodi, Bengaluru, Karnataka 560095",
+  "cityId": "1",
+  "name": "PVR Koramangla"
+}
+
+adding a movie
+{
+  "genre": "Action",
+  "language": "english",
+  "movieName": "Avengers: Endgame",
+  "releaseDate": "26 April 2019"
+}
+
+adding a show
+{
+  "capacity": 100,
+  "startTime": "2020-04-18T20:00:00",
+  "endTime": "2020-04-18T22:00:00",
+  "movieId": "2",
+  "theatreId": "2"
+}
+booking a ticket
+{
+  "seats": [
+    "1","4","5"
+  ],
+  "showId": "2"
+}
+
+Adding a User
+{
+  "email": "vmalya@flyaway.com",
+  "name": "Vijay Mallya",
+  "phoneNumber": "9142040420"
+}

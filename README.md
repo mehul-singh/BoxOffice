@@ -19,3 +19,5 @@ PROJECT START STEPS:
     3. For API documentation : http://localhost:8080/swagger-ui.html
 
     4. To access h2 console : http://localhost:8080/console
+
+    5. For sample post body, please refer Sample_post-body_json.txt
